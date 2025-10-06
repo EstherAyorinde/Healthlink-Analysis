@@ -29,7 +29,14 @@ The report comprises two pages
 1. The Overview page
 2. SDOH impact and equity
 
-![](Ovweriew.ng)
-## Overview
+## Analysis
+![]()
+
+Overview
+The hospital currently have a total number 5000 patient
+we have patient from 7 regions that access our hospital facilities
+The average age of the patient is 46 years
+The Adult patient has the highest percentage of our patient
+The most of our patient are living in an overcowded houses that why there is high rate of re-admission
 
 
