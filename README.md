@@ -21,4 +21,15 @@ Automatically derived relationships are not adjusted
 
 Automatic Model
 :-----------------:
-![]
+![](Auto Model.png)
+
+## Visualization
+
+The report comprises two pages
+1. The Overview page
+2. SDOH impact and equity
+
+![](Ovweriew.ng)
+## Overview
+
+
