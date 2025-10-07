@@ -41,7 +41,7 @@ The Adult patient has the highest percentage of our patient
 The most of our patient are living in an overcowded houses that why there is high rate of re-admission
 
 
-![](
+ ![](SDOH Impact and Equity.png)
 SDOH Impact and Equilty
 
 
