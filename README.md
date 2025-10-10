@@ -20,8 +20,8 @@ The following power BI features were incorporated
 Automatically derived relationships are not adjusted
 
 Automatic Model
-:-----------------:
-![](Auto Model.png)
+:-----------------
+![](Auto%20Model.png)
 
 ## Visualization
 
@@ -31,9 +31,9 @@ The report comprises two pages
 
 ## Analysis
 
-![](Overveiw Analysis.png)
+![](Overveiw%20Analysis.png)
 ---
-Overview
+# Overview
 The hospital currently have a total number 5000 patient
 we have patient from 7 regions that access our hospital facilities
 The average age of the patient is 46 years
@@ -41,7 +41,7 @@ The Adult patient has the highest percentage of our patient
 The most of our patient are living in an overcowded houses that why there is high rate of re-admission
 
 
- ![](SDOH Impact and Equity.png)
-SDOH Impact and Equilty
+ ![](SDOH%20Impact%20and%20Equity.png)
+# SDOH Impact and Equilty
 
 
